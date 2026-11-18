@@ -124,4 +124,4 @@ app.listen(port, () => {
 })
 
 // No Rapid Client:
-// GET http://127.0.0.1:3000/aulav
+// GET http://127.0.0.1:3000/aula
